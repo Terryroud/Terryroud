@@ -4,6 +4,7 @@
 <h1 align="center">About me:</a></h1>
 
 - 📫 How to reach me: Work Telegram - <a href="https://t.me/alia_work" target="_blank">Isliaeva Alia</a>
+- 📖 My resume: <a href="https://disk.yandex.ru/i/pH9lPvEo7QOXPQ" target="_blank">Resume</a>
 
 <h2>Programming languages</h2>
 
